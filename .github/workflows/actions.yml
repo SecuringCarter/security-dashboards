@@ -27,7 +27,7 @@ jobs:
       - name: execute py script # run main.py
         env:
           TOKEN_SECRET: ${{ secrets.TOKEN_SECRET }}
-        run: python test.py
+        run: python csv-builder.py
           
       - name: commit files
         run: |
