@@ -4,7 +4,7 @@ import pytz
 import pandas as pd
 import os
 
-token = os.environ("TOKEN_SECRET")
+token = os.environ["TOKEN_SECRET"]
 
 #github_pat = os.environ.get('GITHUB_PAT')
 
