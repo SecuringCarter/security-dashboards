@@ -1,8 +1,8 @@
-name: run main.py
+name: Populate Grafana Data Source
 
 on:
-  #schedule:
-    #- cron: '*/1 * * * *' # At 00:00 on Monday
+  schedule:
+    - cron: '0 0 * * *' # run once a day
 
   workflow_dispatch:
 
