@@ -1,0 +1,5 @@
+ghsa_id,cve_id,html_url,summary,severity,state,created_at,updated_at,repo,days_open,days_since_update
+GHSA-6qxj-qc57-qrx5,0,https://github.com/SecuringCarter/LanguageRepo/security/advisories/GHSA-6qxj-qc57-qrx5,another from trask,0,triage,2023-10-10,2023-10-10,LanguageRepo,1,1
+GHSA-38x2-834q-rr23,0,https://github.com/SecuringCarter/LanguageRepo/security/advisories/GHSA-38x2-834q-rr23,Testing Zapier from Trask,0,triage,2023-10-10,2023-10-10,LanguageRepo,1,1
+GHSA-xjvj-929f-xf68,0,https://github.com/SecuringCarter/LanguageRepo/security/advisories/GHSA-xjvj-929f-xf68,Supa supa severe ,0,triage,2023-08-23,2023-08-23,LanguageRepo,50,50
+GHSA-f5fm-jhqw-rrvw,0,https://github.com/SecuringCarter/LanguageRepo/security/advisories/GHSA-f5fm-jhqw-rrvw,Something sketchy is happening: SUPA SEVERE,critical,triage,2023-08-22,2023-08-22,LanguageRepo,51,51
